@@ -1,0 +1,8 @@
+{
+  "label":       "Strike Finance",
+  "caption":     "Strike Finance",
+  "categories":  [ "defi" ],
+  "description": "The leading derivatives protocol on Cardano",
+  "url":         "https://beta.strikefinance.org/",
+  "image":       "https://tidelabs.io/images/StrikeBanner.jpg"
+}
